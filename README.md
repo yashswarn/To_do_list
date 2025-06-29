@@ -12,6 +12,8 @@ A localStorage-based To-Do List app with task management features.
 - CSS
 - JavaScript
 
+- Live Demo: https://yashswarn.github.io/To_do_list/
+
 ## 📦 How to Run
 ```bash
 git clone https://github.com/yashswarn/To_do_list.git
